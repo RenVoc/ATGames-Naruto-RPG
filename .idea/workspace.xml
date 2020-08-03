@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="016779a5-5e32-45b4-99bd-16570859cb7f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fUsS3j2CCtmhLUm2OqOwzypcfC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/OpenServer/OpenServer/domains/ama.local" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="016779a5-5e32-45b4-99bd-16570859cb7f" name="Default Changelist" comment="" />
+      <created>1596284003433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596284003433</updated>
+      <workItem from="1596284004677" duration="367000" />
+      <workItem from="1596285315643" duration="558000" />
+      <workItem from="1596285907426" duration="463000" />
+      <workItem from="1596291210643" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-787" y="312" key="FileChooserDialogImpl" timestamp="1596291238243">
+      <screen x="-1280" y="65" width="1280" height="984" />
+    </state>
+    <state x="-787" y="312" key="FileChooserDialogImpl/0.0.1920.1040/-1280.65.1280.984@-1280.65.1280.984" timestamp="1596291238243" />
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1280.65.1280.984@0.0.1920.1040" timestamp="1596284347097" />
+    <state x="-998" y="221" key="SettingsEditor" timestamp="1596285476534">
+      <screen x="-1280" y="65" width="1280" height="984" />
+    </state>
+    <state x="-998" y="221" key="SettingsEditor/0.0.1920.1040/-1280.65.1280.984@-1280.65.1280.984" timestamp="1596285476534" />
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1280.65.1280.984@0.0.1920.1040" timestamp="1596284367054" />
+  </component>
+</project>
