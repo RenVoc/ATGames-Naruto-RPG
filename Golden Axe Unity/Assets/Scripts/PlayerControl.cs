@@ -15,16 +15,19 @@ public class PlayerControl : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
     }
 
-
+    /*Функция описывающая нажатие кнопок.*/
     void FixedUpdate()
     {
+        /*кнопка влево*/
         if (Input.GetKey(KeyCode.A))
         {
             speedX = -horizontalSpeed;
         }
+        /*кнопка вправо*/
         else if (Input.GetKey(KeyCode.D)){
             speedX = horizontalSpeed;
         }
+        /*прыжок, с условием что персонаж на земле*/
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded){
             rb.AddForce(new Vector2(0, verticalImpulse), ForceMode2D.Impulse);    
         }
@@ -32,6 +35,8 @@ public class PlayerControl : MonoBehaviour
         speedX = 0; 
     }
 
+
+    //Функция проверки на земле ли объект
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if(collision.gameObject.tag == "Ground")
