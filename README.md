@@ -7,7 +7,12 @@
 * develop-ветка - io-develop
 * scenes-ветка - kk-scenes
 
+#### Сцены, UI, графика 
+* Костя Кузнецов
+#### Взаимодействие, код:
+* Илья Оловянников, Иван Оловянников
+
 ***
 
-* Ivan Olovyannikov & Konstantin Kuznetsov
+* Ivan Olovyannikov & Konstantin Kuznetsov & Ilya Olovyannikov
 
