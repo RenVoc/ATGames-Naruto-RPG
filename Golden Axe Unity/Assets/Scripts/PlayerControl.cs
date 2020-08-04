@@ -4,51 +4,23 @@ using UnityEngine;
 
 public class PlayerControl : MonoBehaviour
 {
-    public float horizontalSpeed;
-    float speedX;
-    public float verticalImpulse;
-    Rigidbody2D rb;
-    bool isGrounded;
-
-    void Start()
-    {
-        rb = GetComponent<Rigidbody2D>();
+    public float speed;
+    private Rigidbody2D myRigidbody;
+    private Vector3 change;
+    void Start() {
+        myRigidbody = GetComponent<Rigidbody2D>();
     }
 
-    /*Функция описывающая нажатие кнопок.*/
-    void FixedUpdate()
-    {
-        /*кнопка влево*/
-        if (Input.GetKey(KeyCode.A))
-        {
-            speedX = -horizontalSpeed;
-        }
-        /*кнопка вправо*/
-        else if (Input.GetKey(KeyCode.D)){
-            speedX = horizontalSpeed;
-        }
-        /*прыжок, с условием что персонаж на земле*/
-        if (Input.GetKeyDown(KeyCode.Space) && isGrounded){
-            rb.AddForce(new Vector2(0, verticalImpulse), ForceMode2D.Impulse);    
-        }
-        transform.Translate(speedX, 0, 0);
-        speedX = 0; 
-    }
-
-
-    //Функция проверки на земле ли объект
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if(collision.gameObject.tag == "Ground")
-        {
-            isGrounded = true;
+    public void Update() {
+        change = Vector3.zero;
+        change.x = Input.GetAxisRaw("Horizontal");
+        change.y = Input.GetAxisRaw("Vertical");
+        if (change != Vector3.zero) {
+            MoveChar();
         }
     }
-    private void OnCollisionExit2D(Collision2D collision)
-    {
-        if (collision.gameObject.tag == "Ground")
-        {
-            isGrounded = false;
-        }
+
+    private void MoveChar() {
+        myRigidbody.MovePosition(transform.position + change * speed * Time.deltaTime);
     }
 }
