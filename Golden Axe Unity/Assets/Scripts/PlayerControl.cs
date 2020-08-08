@@ -1,6 +1,5 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-using System.Numerics;
 using UnityEngine;
 
 public class PlayerControl : MonoBehaviour
@@ -30,7 +29,7 @@ public class PlayerControl : MonoBehaviour
         if(other.tag == "SavePoint") {
             curSavePosition = transform.position;
         }
-        if(other.tag == "KillPoint") {
+        if(other.tag == "KillPint") {
             transform.position = curSavePosition;
         }
     }
