@@ -5,11 +5,13 @@ using UnityEngine;
 public class PlayerControl : MonoBehaviour
 {
     public float speed;
+    public float spawnSpeed = 10.0f;
     private Rigidbody2D myRigidbody;
     private Vector3 change;
     public Vector2 curSavePosition;
     void Start() {
         myRigidbody = GetComponent<Rigidbody2D>();
+        speed = spawnSpeed;
     }
 
     public void Update() {
@@ -18,6 +20,11 @@ public class PlayerControl : MonoBehaviour
         change.y = Input.GetAxisRaw("Vertical");
         if (change != Vector3.zero) {
             MoveChar();
+        }
+        if(Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift)) {
+            speed = spawnSpeed;
+        } else {
+            speed = 20.0f;
         }
     }
 
