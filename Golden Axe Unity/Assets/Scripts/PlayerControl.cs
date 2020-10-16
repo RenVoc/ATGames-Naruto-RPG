@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerControl : MonoBehaviour
 {
-    public float speed; // Cкорости.
+    public float speed; // Переменная скорости.
     public float spawnSpeed = 10.0f; // Ускорение.
     private Rigidbody2D myRigidbody; // Объект для содержимого RigigBody2D.
     private Vector3 change; // Переменная оси z.
