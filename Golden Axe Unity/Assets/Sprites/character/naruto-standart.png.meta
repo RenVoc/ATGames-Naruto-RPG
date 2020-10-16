@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: ebae88fe2cbef844a82b99118fbdea79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3865267598412738977
+    second: naruto-standart_0
+  - first:
+      213: 8104538300669815755
+    second: naruto-standart_1
+  - first:
+      213: 8241997710926351399
+    second: naruto-standart_2
+  - first:
+      213: 1130603844220700138
+    second: naruto-standart_3
+  - first:
+      213: -1228736586769315797
+    second: naruto-standart_4
+  - first:
+      213: 8159202729163115415
+    second: naruto-standart_5
+  - first:
+      213: 6841905991628699704
+    second: naruto-standart_6
+  - first:
+      213: 4625360415546023197
+    second: naruto-standart_7
+  - first:
+      213: -8350535913537367376
+    second: naruto-standart_8
+  - first:
+      213: 9120810261638184093
+    second: naruto-standart_9
+  - first:
+      213: 8633238894013325417
+    second: naruto-standart_10
+  - first:
+      213: -5481945922502405349
+    second: naruto-standart_11
+  - first:
+      213: -2831272141478139748
+    second: naruto-standart_12
+  - first:
+      213: 7648460521434679359
+    second: naruto-standart_13
+  - first:
+      213: 6803946888788219929
+    second: naruto-standart_14
+  - first:
+      213: -8629873089401384036
+    second: naruto-standart_15
+  - first:
+      213: 6781021858362768885
+    second: naruto-standart_16
+  - first:
+      213: 1580988689212652018
+    second: naruto-standart_17
+  - first:
+      213: 3057769163399780611
+    second: naruto-standart_18
+  - first:
+      213: 2458077455493157999
+    second: naruto-standart_19
+  - first:
+      213: -7236768510558589027
+    second: naruto-standart_20
+  - first:
+      213: 5321394652205706766
+    second: naruto-standart_21
+  - first:
+      213: -4387867630065526950
+    second: naruto-standart_22
+  - first:
+      213: 7390689357210509200
+    second: naruto-standart_23
+  - first:
+      213: -8012589462929908324
+    second: naruto-standart_24
+  - first:
+      213: 585121877593947794
+    second: naruto-standart_25
+  - first:
+      213: 342811084262086492
+    second: naruto-standart_26
+  - first:
+      213: 4247769880089523666
+    second: naruto-standart_27
+  - first:
+      213: 7499717625970829900
+    second: naruto-standart_28
+  - first:
+      213: -5347509134983564003
+    second: naruto-standart_29
+  - first:
+      213: 7375065759556108439
+    second: naruto-standart_30
+  - first:
+      213: 6816503287145674706
+    second: naruto-standart_31
+  - first:
+      213: -1613195676074804769
+    second: naruto-standart_0
+  - first:
+      213: -6215751091816984009
+    second: naruto-standart_1
+  - first:
+      213: -8059530020137625105
+    second: naruto-standart_2
+  - first:
+      213: -5841637212397740103
+    second: naruto-standart_3
+  - first:
+      213: -8884736029053208931
+    second: naruto-standart_4
+  - first:
+      213: -6125705718408813907
+    second: naruto-standart_5
+  - first:
+      213: -2072346263600208285
+    second: naruto-standart_6
+  - first:
+      213: -5955996579153406417
+    second: naruto-standart_7
+  - first:
+      213: 5322442294912274002
+    second: naruto-standart_8
+  - first:
+      213: -3861831386711558344
+    second: naruto-standart_9
+  - first:
+      213: 6460247415482986212
+    second: naruto-standart_10
+  - first:
+      213: 5825262294164129172
+    second: naruto-standart_11
+  - first:
+      213: -1366742965893953886
+    second: naruto-standart_12
+  - first:
+      213: 1914287661512810381
+    second: naruto-standart_13
+  - first:
+      213: 8535861622544290606
+    second: naruto-standart_14
+  - first:
+      213: -3446662443905062530
+    second: naruto-standart_15
+  - first:
+      213: -191850385102716885
+    second: naruto-standart_16
+  - first:
+      213: 7478174152482224735
+    second: naruto-standart_17
+  - first:
+      213: 6813677341834673029
+    second: naruto-standart_18
+  - first:
+      213: 621511988297746671
+    second: naruto-standart_19
+  - first:
+      213: 2034610361383777586
+    second: naruto-standart_20
+  - first:
+      213: 5722263193007746358
+    second: naruto-standart_21
+  - first:
+      213: -3947082383669084440
+    second: naruto-standart_22
+  - first:
+      213: -6199039515366560881
+    second: naruto-standart_23
+  - first:
+      213: 5470980794433191097
+    second: naruto-standart_24
+  - first:
+      213: -1568314553146913358
+    second: naruto-standart_25
+  - first:
+      213: -6396296144342432766
+    second: naruto-standart_26
+  - first:
+      213: -4470083897986541838
+    second: naruto-standart_27
+  - first:
+      213: 8349820868788920013
+    second: naruto-standart_28
+  - first:
+      213: 9099032874244346380
+    second: naruto-standart_29
+  - first:
+      213: -4005262922195836185
+    second: naruto-standart_30
+  - first:
+      213: -4435581519182876508
+    second: naruto-standart_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: naruto-standart_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd97d566417cc99e0800000000000000
+      internalID: -1613195676074804769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732900080573db9a0800000000000000
+      internalID: -6215751091816984009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9991dd52cc62090800000000000000
+      internalID: -8059530020137625105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf5458d7e55eeea0800000000000000
+      internalID: -5841637212397740103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d963b29a7a313b480800000000000000
+      internalID: -8884736029053208931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2e9afba1f1dfaa0800000000000000
+      internalID: -6125705718408813907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36660829d0c8d33e0800000000000000
+      internalID: -2072346263600208285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f269e10eaac085da0800000000000000
+      internalID: -5955996579153406417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ec2c5511d1dd940800000000000000
+      internalID: 5322442294912274002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8377a9c80d4086ac0800000000000000
+      internalID: -3861831386711558344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eeaff8ebc867a950800000000000000
+      internalID: 6460247415482986212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_11
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4954127613d77d050800000000000000
+      internalID: 5825262294164129172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a680aa838a580de0800000000000000
+      internalID: -1366742965893953886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_13
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f526e5c7ae09a10800000000000000
+      internalID: 1914287661512810381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2354a7bbe8757670800000000000000
+      internalID: 8535861622544290606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_15
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79eb5ab4cefa20d0800000000000000
+      internalID: -3446662443905062530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b204ee95719665df0800000000000000
+      internalID: -191850385102716885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_17
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5af53745cfc7c760800000000000000
+      internalID: 7478174152482224735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_18
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bfe26217b0f8e50800000000000000
+      internalID: 6813677341834673029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_19
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe842264cdd00a800800000000000000
+      internalID: 621511988297746671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_20
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235fb9608536c3c10800000000000000
+      internalID: 2034610361383777586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_21
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63de4826e00996f40800000000000000
+      internalID: 5722263193007746358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_22
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eeb33e0c752939c0800000000000000
+      internalID: -3947082383669084440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_23
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b67f9976698f9a0800000000000000
+      internalID: -6199039515366560881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_24
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcbc29cb04dceb40800000000000000
+      internalID: 5470980794433191097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_25
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd4a93293a3c3ae0800000000000000
+      internalID: -1568314553146913358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_26
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204c446bb8acb37a0800000000000000
+      internalID: -6396296144342432766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_27
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f69158d06217f1c0800000000000000
+      internalID: -4470083897986541838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_28
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce9e4647d580e370800000000000000
+      internalID: 8349820868788920013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_29
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c029fecb032464e70800000000000000
+      internalID: 9099032874244346380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-standart_30
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e26972d7927a68c0800000000000000
+      internalID: -4005262922195836185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
