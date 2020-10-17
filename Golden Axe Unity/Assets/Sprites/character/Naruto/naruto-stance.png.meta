@@ -11,6 +11,15 @@ TextureImporter:
   - first:
       213: -6037729759252646414
     second: naruto-stance_2
+  - first:
+      213: 1880468604834666329
+    second: naruto-stance_0
+  - first:
+      213: -1046768011529607049
+    second: naruto-stance_1
+  - first:
+      213: -3968366804343097283
+    second: naruto-stance_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -112,8 +121,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7269e65cf8898c060800000000000000
-      internalID: 6973991766243317287
+      spriteID: 957d172ab34c81a10800000000000000
+      internalID: 1880468604834666329
       vertices: []
       indices: 
       edges: []
@@ -133,8 +142,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2662733bd3f6c0c0800000000000000
-      internalID: -4555685850252155350
+      spriteID: 778298e1a022971f0800000000000000
+      internalID: -1046768011529607049
       vertices: []
       indices: 
       edges: []
@@ -154,8 +163,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f5f0f1f5cca53ca0800000000000000
-      internalID: -6037729759252646414
+      spriteID: d387da0ba678de8c0800000000000000
+      internalID: -3968366804343097283
       vertices: []
       indices: 
       edges: []
