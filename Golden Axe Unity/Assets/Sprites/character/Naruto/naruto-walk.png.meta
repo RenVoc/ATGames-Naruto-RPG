@@ -1,7 +1,127 @@
 fileFormatVersion: 2
 guid: ad127e72b2e6fbe468807b0418e3a218
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 7197227749583536507
+    second: naruto-walk_0
+  - first:
+      213: -6723522222125304574
+    second: naruto-walk_1
+  - first:
+      213: -5640482191841308856
+    second: naruto-walk_2
+  - first:
+      213: 4969262441375302321
+    second: naruto-walk_3
+  - first:
+      213: -8512246217185629480
+    second: naruto-walk_4
+  - first:
+      213: -8551818102755048305
+    second: naruto-walk_5
+  - first:
+      213: -6566297439070911572
+    second: naruto-walk_6
+  - first:
+      213: 2025958422647866381
+    second: naruto-walk_7
+  - first:
+      213: -7572897763935589364
+    second: naruto-walk_8
+  - first:
+      213: -5257542306987218850
+    second: naruto-walk_9
+  - first:
+      213: -1387969429999319959
+    second: naruto-walk_10
+  - first:
+      213: 1922723982049638948
+    second: naruto-walk_11
+  - first:
+      213: 5897112045572022043
+    second: naruto-walk_12
+  - first:
+      213: -5315498604191201936
+    second: naruto-walk_13
+  - first:
+      213: 5529178382233868211
+    second: naruto-walk_14
+  - first:
+      213: 3081528470450438681
+    second: naruto-walk_15
+  - first:
+      213: -4260699007249703648
+    second: naruto-walk_16
+  - first:
+      213: -3653343151916183371
+    second: naruto-walk_17
+  - first:
+      213: 4253173675232129909
+    second: naruto-walk_18
+  - first:
+      213: -6284472766800464780
+    second: naruto-walk_19
+  - first:
+      213: -5825307457188728580
+    second: naruto-walk_0
+  - first:
+      213: -5296300405838704836
+    second: naruto-walk_1
+  - first:
+      213: 6218155671413638441
+    second: naruto-walk_2
+  - first:
+      213: 1218073394488046480
+    second: naruto-walk_3
+  - first:
+      213: 2961631979052690103
+    second: naruto-walk_4
+  - first:
+      213: 8400385269964738937
+    second: naruto-walk_5
+  - first:
+      213: 1827933015930352908
+    second: naruto-walk_6
+  - first:
+      213: 3577049316782050415
+    second: naruto-walk_7
+  - first:
+      213: -4601713928794128076
+    second: naruto-walk_8
+  - first:
+      213: 2259550976718089226
+    second: naruto-walk_9
+  - first:
+      213: 4269455052337759476
+    second: naruto-walk_10
+  - first:
+      213: 4602459695867109775
+    second: naruto-walk_11
+  - first:
+      213: 2650200489485207652
+    second: naruto-walk_12
+  - first:
+      213: -1387979149821243822
+    second: naruto-walk_13
+  - first:
+      213: 1469205922763712329
+    second: naruto-walk_14
+  - first:
+      213: 82134483841779402
+    second: naruto-walk_15
+  - first:
+      213: -4867738690875517071
+    second: naruto-walk_16
+  - first:
+      213: -4720235777453820220
+    second: naruto-walk_17
+  - first:
+      213: -2954525076864753026
+    second: naruto-walk_18
+  - first:
+      213: -8382955165217289681
+    second: naruto-walk_19
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +152,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -41,12 +161,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -66,7 +186,19 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -75,7 +207,385 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: naruto-walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0f4d24bb9582fa0800000000000000
+      internalID: -5825307457188728580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-walk_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 7
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f0a3687d2cf76b0800000000000000
+      internalID: -5296300405838704836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-walk_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 7
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925c0b053a35b4650800000000000000
+      internalID: 6218155671413638441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-walk_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 7
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09370d47c4777e010800000000000000
+      internalID: 1218073394488046480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-walk_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 7
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba6fd2f794d91920800000000000000
+      internalID: 2961631979052690103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-walk_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 7
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9711ca855e9249470800000000000000
+      internalID: 8400385269964738937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-walk_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 7
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05bcb7a46f1e5910800000000000000
+      internalID: 1827933015930352908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-walk_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 7
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c09dec66b34a130800000000000000
+      internalID: 3577049316782050415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-walk_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 7
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431424c009d6320c0800000000000000
+      internalID: -4601713928794128076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-walk_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 7
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c2b2744a98b5f10800000000000000
+      internalID: 2259550976718089226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-walk_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 7
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4c613efb6204b30800000000000000
+      internalID: 4269455052337759476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-walk_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 7
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81263165b83fdf30800000000000000
+      internalID: 4602459695867109775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-walk_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 7
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4680557cd4767c420800000000000000
+      internalID: 2650200489485207652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-walk_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 7
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e814b2158ecbce0800000000000000
+      internalID: -1387979149821243822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-walk_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 7
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9472b38a00ba36410800000000000000
+      internalID: 1469205922763712329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-walk_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 7
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6033db0ecc32100800000000000000
+      internalID: 82134483841779402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-walk_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 7
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17790f67371527cb0800000000000000
+      internalID: -4867738690875517071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naruto-walk_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 7
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c676ccb19a5e7eb0800000000000000
+      internalID: -4720235777453820220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

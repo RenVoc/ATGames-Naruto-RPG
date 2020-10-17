@@ -3,11 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class LevelSystem {
-    private int level;
-    private int experience;
-    private int experienceToNextLevel;
+    private int level; // уровень.
+    private int experience; // опыт.
+    private int experienceToNextLevel; // опыт до следующего уровня.
 
     public LevelSystem() {
+        // обнуляем переменные, до следующего уровня надо 100 опыта накопить
         level = 0;
         experience = 0;
         experienceToNextLevel = 100;
@@ -25,6 +26,6 @@ public class LevelSystem {
 
     public int GetLevelNumber()
     {
-        return level;
+        return level; // для отрисовки уровня возвращаем уровень (цифру) в функцию для ее вывода в интерфейсе юнити.
     }
 }

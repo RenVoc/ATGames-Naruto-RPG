@@ -5,26 +5,76 @@ using UnityEngine;
 public class PlayerControl : MonoBehaviour
 {
     public float speed; // Переменная скорости.
-    public float spawnSpeed = 10.0f; // Ускорение.
+    public float spawnSpeed = 20.0f; // Ускорение.
     private Rigidbody2D myRigidbody; // Объект для содержимого RigigBody2D.
     private Vector3 change; // Переменная оси z.
     public Vector2 curSavePosition; // Переменная для сохранения позиции.
+    private Animator anim; //Переменная для анимаций.
+
     void Start() {
         myRigidbody = GetComponent<Rigidbody2D>(); // Записываю то, что находится в Rigidbody2D в переменную.
         speed = spawnSpeed; // Начальные скорость и ускорение равны 0.
+        anim = this.GetComponent<Animator>(); // даем переменной доступ к набору фитч из юнити-аниматора.
     }
 
     public void Update() {
         change = Vector3.zero; // Обнуление переменной. 
         change.x = Input.GetAxisRaw("Horizontal"); // Запись в переменную изменение значения по оси X.
         change.y = Input.GetAxisRaw("Vertical"); // Запись в переменную изменение значения по оси Y.
+
+        if(change.x > 0) // если идет вправо.
+        {
+            anim.SetBool("Right", true);
+            anim.SetBool("Left", false);
+            anim.SetBool("Up", false);
+            anim.SetBool("Down", false);
+            anim.SetBool("Stance", false);
+        }
+
+        if(change.x < 0) // если идет влево.
+        {
+            anim.SetBool("Right", false);
+            anim.SetBool("Left", true);
+            anim.SetBool("Up", false);
+            anim.SetBool("Down", false);
+            anim.SetBool("Stance", false);
+        }
+
+        if(change.y > 0)  // если идет вверх.
+        {
+            anim.SetBool("Right", false);
+            anim.SetBool("Left", false);
+            anim.SetBool("Up", true);
+            anim.SetBool("Down", true);
+            anim.SetBool("Stance", false);
+        }
+
+        if(change.y < 0) // если идет вниз.
+        {
+            anim.SetBool("Right", false);
+            anim.SetBool("Left", false);
+            anim.SetBool("Up", false);
+            anim.SetBool("Down", true);
+            anim.SetBool("Stance", false);
+        }
+
+        if(change.y == 0 && change.x == 0) //состояние покоя
+        {
+            anim.SetBool("Right", false);
+            anim.SetBool("Left", false);
+            anim.SetBool("Up", false);
+            anim.SetBool("Down", false);
+            anim.SetBool("Stance", true);
+        }
+
         if (change != Vector3.zero) { // Если change не 0 по х или y то выполнить функцию MoveChar.
             MoveChar();
         }
+
         if(Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift)) {
             speed = spawnSpeed; // Если нажат шифт, то скорость = ускорение (во фреймах)
         } else {
-            speed = 20.0f; // Иначе стандартная скорость (можно отдельно задать в UI Unity
+            speed = 10.0f; // Иначе стандартная скорость (можно отдельно задать в UI Unity)
         }
     }
 

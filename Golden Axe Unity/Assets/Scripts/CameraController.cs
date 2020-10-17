@@ -16,7 +16,6 @@ public class CameraController : MonoBehaviour
     {
         offset = new Vector2(Mathf.Abs(offset.x), offset.y);
         FindPlayer(isLeft);
-
     }
     public void FindPlayer(bool playerIsLeft)
     {

@@ -6,6 +6,7 @@ public class Test : MonoBehaviour
 {
     private void Awake()
     {
+        // тут проверка для системы уровней будет писаться и другие тесты.
         LevelSystem levelSystem = new LevelSystem();
         Debug.Log(levelSystem.GetLevelNumber());
         levelSystem.AddExperience(50);
