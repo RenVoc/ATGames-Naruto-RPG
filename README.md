@@ -4,7 +4,6 @@
 
 ### Основной проект:
 * master - основная ветка, в ней работу не ведем.
-* develop-ветка - io-develop
-* scenes-ветка - kk-scenes
+* ветка разработки - io-develop-backend
 
 
